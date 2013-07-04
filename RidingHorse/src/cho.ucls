@@ -1,0 +1,473 @@
+<class-diagram version="1.0.10" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="Main.MyContentPane.MyActionListener" project="RidingHorse" 
+    file="/RidingHorse/src/Main/MyContentPane.java" binary="false">    
+    <position height="-1" width="-1" x="335" y="-265"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="Observer.TrackColor" project="RidingHorse" 
+    file="/RidingHorse/src/Observer/TrackColor.java" binary="false">    
+    <position height="-1" width="-1" x="920" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="BusterType.LateBuster" project="RidingHorse" 
+    file="/RidingHorse/src/BusterType/LateBuster.java" binary="false">    
+    <position height="-1" width="-1" x="243" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="SubjectHorse.HorseCho" project="RidingHorse" 
+    file="/RidingHorse/src/SubjectHorse/HorseCho.java" binary="false">    
+    <position height="-1" width="-1" x="1012" y="342"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="BusterState.Running" project="RidingHorse" 
+    file="/RidingHorse/src/BusterState/Running.java" binary="false">    
+    <position height="-1" width="-1" x="1384" y="160"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="BusterState.Arrival" project="RidingHorse" 
+    file="/RidingHorse/src/BusterState/Arrival.java" binary="false">    
+    <position height="-1" width="-1" x="1383" y="323"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" name="SubjectHorse.DelegatedObservable" project="RidingHorse" 
+    file="/RidingHorse/src/SubjectHorse/DelegatedObservable.java" binary="false">    
+    <position height="-1" width="-1" x="322" y="225"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" corner="BOTTOM_RIGHT" language="java" name="Observer.MovedDistance" project="RidingHorse" 
+    file="/RidingHorse/src/Observer/MovedDistance.java" binary="false">    
+    <position height="-1" width="-1" x="918" y="-252"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" corner="BOTTOM_RIGHT" language="java" name="Main.MyContentPane.MyMouseListener" project="RidingHorse" 
+    file="/RidingHorse/src/Main/MyContentPane.java" binary="false">    
+    <position height="-1" width="-1" x="332" y="-153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" corner="BOTTOM_RIGHT" language="java" name="Main.MyContentPane.ThreadHorse" project="RidingHorse" 
+    file="/RidingHorse/src/Main/MyContentPane.java" binary="false">    
+    <position height="-1" width="-1" x="321" y="82"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" corner="BOTTOM_RIGHT" language="java" name="BusterState.RunState" project="RidingHorse" 
+    file="/RidingHorse/src/BusterState/RunState.java" binary="false">    
+    <position height="-1" width="-1" x="1161" y="163"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" corner="BOTTOM_RIGHT" language="java" name="Observer.StateOfRun" project="RidingHorse" 
+    file="/RidingHorse/src/Observer/StateOfRun.java" binary="false">    
+    <position height="-1" width="-1" x="919" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" corner="BOTTOM_RIGHT" language="java" name="SubjectHorse.HorseTang" project="RidingHorse" 
+    file="/RidingHorse/src/SubjectHorse/HorseTang.java" binary="false">    
+    <position height="-1" width="-1" x="1014" y="469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" corner="BOTTOM_RIGHT" language="java" name="Main.RidingHorse" project="RidingHorse" 
+    file="/RidingHorse/src/Main/RidingHorse.java" binary="false">    
+    <position height="-1" width="-1" x="299" y="-45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="15" corner="BOTTOM_RIGHT" language="java" name="BusterState.Lose" project="RidingHorse" 
+    file="/RidingHorse/src/BusterState/Lose.java" binary="false">    
+    <position height="-1" width="-1" x="1385" y="-164"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="16" corner="BOTTOM_RIGHT" language="java" name="BusterState.Ready" project="RidingHorse" 
+    file="/RidingHorse/src/BusterState/Ready.java" binary="false">    
+    <position height="-1" width="-1" x="1386" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="17" corner="BOTTOM_RIGHT" language="java" name="BusterState.Win" project="RidingHorse" 
+    file="/RidingHorse/src/BusterState/Win.java" binary="false">    
+    <position height="-1" width="-1" x="1383" y="478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="18" corner="BOTTOM_RIGHT" language="java" name="SubjectHorse.Horse" project="RidingHorse" 
+    file="/RidingHorse/src/SubjectHorse/Horse.java" binary="false">    
+    <position height="-1" width="-1" x="667" y="441"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="19" corner="BOTTOM_RIGHT" language="java" name="BusterType.EarlyBuster" project="RidingHorse" 
+    file="/RidingHorse/src/BusterType/EarlyBuster.java" binary="false">    
+    <position height="-1" width="-1" x="407" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="20" corner="BOTTOM_RIGHT" language="java" name="Main.MyContentPane" project="RidingHorse" 
+    file="/RidingHorse/src/Main/MyContentPane.java" binary="false">    
+    <position height="-1" width="-1" x="670" y="-35"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="21" corner="BOTTOM_RIGHT" language="java" name="BusterType.BusterType" project="RidingHorse" 
+    file="/RidingHorse/src/BusterType/BusterType.java" binary="false">    
+    <position height="-1" width="-1" x="315" y="376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="22" corner="BOTTOM_RIGHT" language="java" name="java.util.Observable" project="RobotTing" 
+    file="C:/Program Files/Java/jdk1.7.0_03/jre/lib/rt.jar" binary="true">    
+    <position height="-1" width="-1" x="105" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="23" corner="BOTTOM_RIGHT" language="java" name="java.util.Observer" project="RobotTing" 
+    file="C:/Program Files/Java/jdk1.7.0_03/jre/lib/rt.jar" binary="true">    
+    <position height="-1" width="-1" x="1174" y="-40"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <association id="24">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="25" name="myContentPane"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="28" name="threadHorse"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="31" name="horseTang"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="33">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="23"/>  
+  </realization>  
+  <association id="34">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="35" name="instance"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="38" name="delegatedObservable"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="41" name="horseList"/>      
+      <multiplicity id="42" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="44">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="45" name="horse"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="48" name="horseCho"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="51" name="instance"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="54" name="busterType"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="57" name="stateOfRun"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="60">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="61" name="myContentPane"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="64" name="myContentPane"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="66">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="67">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="68" name="instance"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="70">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="71" name="myContentPane"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="73">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="74" name="instance"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="76">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <association id="77">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="78" name="movedDistance"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="80">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="23"/>  
+  </realization>  
+  <association id="81">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="82" name="instance"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="84">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <association id="85">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="86" name="mal"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="89" name="horseTang"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="92" name="horseTang"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="95">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="96" name="instance"/>      
+      <multiplicity id="97" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="98">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="99" name="horseCho"/>      
+      <multiplicity id="100" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="101">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="102" name="horseCho"/>      
+      <multiplicity id="103" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="104">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="105">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <realization id="106">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="107">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="108" name="runState"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="110">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <nesting id="111">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <association id="112">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="113" name="instance"/>      
+      <multiplicity id="114" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="115">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="116" name="trackColor"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="118">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="23"/>  
+  </realization>  
+  <realization id="119">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <realization id="120">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
